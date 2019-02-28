@@ -40,7 +40,18 @@
 # 
 #
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
+    def maxProfit(self, prices):
+        if prices == []:
+            return 0
         
+        lowp = prices[0]
+        maxp = 0
+        for p in prices[1:]:
+            if p < lowp:
+                lowp = p
+            elif p - lowp > maxp:
+                maxp = p - lowp
+                
+        return maxp
         
 
