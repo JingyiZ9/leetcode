@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "array"
+		},
+		{
+			"path": "linked list"
+		},
+		{
+			"path": "binary_search"
+		}
+	],
+	"settings": {}
+}
