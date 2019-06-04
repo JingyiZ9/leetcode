@@ -10,3 +10,6 @@ A personal history of leetcode
 
 ### 6.2
 121. Best Time to Buy and Sell Stock
+
+### 6.3
+121. Best Time to Buy and Sell Stock [review]
