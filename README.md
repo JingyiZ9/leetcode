@@ -3,7 +3,7 @@ A personal history of leetcode
 
 ### 6.7
 1. 
--[x] 11.Container With Most Water [medium star]
+11.Container With Most Water [medium star]
 
 ### 6.4
 172.factorial-trailing-zeroes [tricky issue]
