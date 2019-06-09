@@ -1,6 +1,9 @@
 # leetcode
 A personal history of leetcode
 
+### 6.9
+771. Jewels and Stones [hash table]
+
 ### 6.7
 1. 
 11.Container With Most Water [medium star]
