@@ -3,6 +3,8 @@ A personal history of leetcode
 
 ### 6.9
 771. Jewels and Stones [hash table]
+3.
+890. Find and Replace Pattern
 
 ### 6.7
 1. 
