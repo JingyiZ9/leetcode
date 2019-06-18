@@ -1,6 +1,10 @@
 # leetcode
 A personal history of leetcode
 
+### 6.17
+81. Search in Rotated Sorted Array II
+33. Search in Rotated Sorted Array
+
 ### 6.9
 771. Jewels and Stones [hash table]
 3.
