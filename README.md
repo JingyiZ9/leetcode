@@ -1,6 +1,13 @@
 # leetcode
 A personal history of leetcode
 
+### 6.19
+169.	Majority Element
+229.	Majority Element II
+274.	H-Index
+275. H-Index II
+
+
 ### 6.17
 81. Search in Rotated Sorted Array II
 33. Search in Rotated Sorted Array
