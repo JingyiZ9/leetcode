@@ -1,6 +1,11 @@
 # leetcode
 A personal history of leetcode
 
+### 6.21
+28. Implement strStr()
+58. Length of Last Word
+
+
 ### 6.19
 169.	Majority Element
 229.	Majority Element II
