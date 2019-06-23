@@ -1,6 +1,15 @@
 # leetcode
 A personal history of leetcode
 
+### 6.22
+13. Roman to Integer
+67. Add Binary
+344. Reverse String
+151. Reverse Words in a String
+345. Reverse Vowels of a String
+
+
+
 ### 6.21
 28. Implement strStr()
 58. Length of Last Word
