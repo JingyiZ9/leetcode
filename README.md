@@ -1,6 +1,13 @@
 # leetcode
 A personal history of leetcode
 
+### 6.23
+242. Valid Anagram
+49. Group Anagrams
+168. Excel Sheet Column Title
+171. Excel Sheet Column Number
+
+
 ### 6.22
 13. Roman to Integer
 67. Add Binary
