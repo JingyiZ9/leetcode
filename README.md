@@ -1,12 +1,21 @@
 # leetcode
-A personal history of leetcode
+A personal history of leetcode     
+
+problems that need to review
+670 46 47 36
+
+
+
+### 6.25
+387. First Unique Character in a String
+383. Ransom Note
+345. Reverse Vowels of a String
 
 ### 6.23
 242. Valid Anagram
 49. Group Anagrams
 168. Excel Sheet Column Title
 171. Excel Sheet Column Number
-
 
 ### 6.22
 13. Roman to Integer
@@ -15,19 +24,15 @@ A personal history of leetcode
 151. Reverse Words in a String
 345. Reverse Vowels of a String
 
-
-
 ### 6.21
 28. Implement strStr()
 58. Length of Last Word
-
 
 ### 6.19
 169.	Majority Element
 229.	Majority Element II
 274.	H-Index
 275. H-Index II
-
 
 ### 6.17
 81. Search in Rotated Sorted Array II
@@ -60,9 +65,3 @@ A personal history of leetcode
 
 ### 5.18
 20. valid parentheses
-
-
-
-
-
-
