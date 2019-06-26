@@ -4,6 +4,9 @@ A personal history of leetcode
 problems that need to review
 670 46 47 36
 
+### important
+* word pattern match 205, 290
+* linked list cycle 141, 142
 
 
 ### 6.25
