@@ -7,7 +7,12 @@ problems that need to review
 ### important
 * word pattern match 205, 290
 * linked list cycle 141, 142
+* slow and quick pointers 26
 
+### 6.26
+27. Remove Element
+26. Remove Duplicates from Sorted Array
+80. Remove Duplicates from Sorted Array II
 
 ### 6.25
 387. First Unique Character in a String
