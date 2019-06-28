@@ -9,6 +9,14 @@ problems that need to review
 * linked list cycle 141, 142
 * slow and quick pointers 26
 
+### 6.29 （review day）    
+
+### 6.27
+189. Rotate Array
+258. Add Digits (simple recursion)
+231. Power of Two
+
+
 ### 6.26
 27. Remove Element
 26. Remove Duplicates from Sorted Array
