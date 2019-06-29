@@ -11,6 +11,9 @@ problems that need to review
 
 ### 6.29 （review day）    
 
+### 6.28
+7. Reverse Integer
+
 ### 6.27
 189. Rotate Array
 258. Add Digits (simple recursion)
