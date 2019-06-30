@@ -4,12 +4,19 @@ A personal history of leetcode
 problems that need to review
 670 46 47 36
 
+### math
+29, 165, 8, 50, 365, 204
 ### important
 * word pattern match 205, 290
 * linked list cycle 141, 142
 * slow and quick pointers 26
+* recursive / iterative 144,
 
-### 6.29 （review day）    
+### 6.29
+200. Number of Islands
+66. Plus One
+144. Binary Tree Preorder Traversal
+
 
 ### 6.28
 7. Reverse Integer
