@@ -12,19 +12,24 @@ problems that need to review
 * slow and quick pointers 26
 * recursive / iterative 144,
 
+### 6.30
+144.Binary Tree Preorder Traversal  [review] [preorder]
+94. Binary Tree Inorder Traversal   [inorder]
+145. Binary Tree Postorder Traversal [postorder]
+
 ### 6.29
-200. Number of Islands
-66. Plus One
-144. Binary Tree Preorder Traversal
+200.Number of Islands
+66.Plus One
+144.Binary Tree Preorder Traversal
 
 
 ### 6.28
-7. Reverse Integer
+7.Reverse Integer
 
 ### 6.27
-189. Rotate Array
-258. Add Digits (simple recursion)
-231. Power of Two
+189.Rotate Array
+258.Add Digits (simple recursion)
+231.Power of Two
 
 
 ### 6.26
