@@ -16,12 +16,12 @@ problems that need to review
 
 ## July
 ### 7.2
-257. Binary Tree Paths
-112. Path Sum
-113. Path Sum II
-129. Sum Root to Leaf Numbers
-111. Minimum Depth of Binary Tree
-104. Maximum Depth of Binary Tree
+257.Binary Tree Paths    
+112. Path Sum   
+113. Path Sum II   
+129. Sum Root to Leaf Numbers   
+111. Minimum Depth of Binary Tree  
+104. Maximum Depth of Binary Tree  
 
 
 ### 7.1
