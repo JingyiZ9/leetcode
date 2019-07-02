@@ -6,6 +6,8 @@ problems that need to review
 
 ### math
 29, 165, 8, 50, 365, 204
+### tree
+298
 ### important
 * word pattern match 205, 290
 * linked list cycle 141, 142
@@ -13,6 +15,15 @@ problems that need to review
 * recursive / iterative 144,
 
 ## July
+### 7.2
+257. Binary Tree Paths
+112. Path Sum
+113. Path Sum II
+129. Sum Root to Leaf Numbers
+111. Minimum Depth of Binary Tree
+104. Maximum Depth of Binary Tree
+
+
 ### 7.1
 145.Binary Tree Postorder Traversal   [review] postorder: preorder(root->right->left) then reverse   
 102. Binary Tree Level Order Traversal   
