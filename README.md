@@ -12,7 +12,7 @@ problems that need to review
 * word pattern match 205, 290
 * linked list cycle 141, 142
 * slow and quick pointers 26
-* recursive / iterative 144,
+* recursive / iterative (tree) 144, 110
 
 ## July
 ### 7.2
@@ -22,7 +22,7 @@ problems that need to review
 129. Sum Root to Leaf Numbers   
 111. Minimum Depth of Binary Tree  
 104. Maximum Depth of Binary Tree  
-
+110. Balanced Binary Tree (balanced binary tree)
 
 ### 7.1
 145.Binary Tree Postorder Traversal   [review] postorder: preorder(root->right->left) then reverse   
