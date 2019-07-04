@@ -1,20 +1,25 @@
 # leetcode
 A personal history of leetcode     
 
-problems that need to review
+## problems that need to review
 670 46 47 36
 
 ### math
 29, 165, 8, 50, 365, 204
 ### tree
-298
-### important
+124, 250, 366, 337
+
+## important
 * word pattern match 205, 290
 * linked list cycle 141, 142
 * slow and quick pointers 26
 * recursive / iterative (tree) 144, 110
 
 ## July
+### 7.3
+110.Balanced Binary Tree (balanced binary tree) 【two recursion】
+
+
 ### 7.2
 257.Binary Tree Paths    
 112. Path Sum   
@@ -22,7 +27,6 @@ problems that need to review
 129. Sum Root to Leaf Numbers   
 111. Minimum Depth of Binary Tree  
 104. Maximum Depth of Binary Tree  
-110. Balanced Binary Tree (balanced binary tree)
 
 ### 7.1
 145.Binary Tree Postorder Traversal   [review] postorder: preorder(root->right->left) then reverse   
