@@ -7,7 +7,7 @@ A personal history of leetcode
 ### math
 29, 165, 8, 50, 365, 204
 ### tree
-124, 250, 366, 337
+124, 250, 366, 337, 235, 108
 
 ## important
 * word pattern match 205, 290
@@ -16,9 +16,18 @@ A personal history of leetcode
 * recursive / iterative (tree) 144, 110
 
 ## July
+### 7.4
+107.Binary Tree Level Order Traversal II . 
+103. Binary Tree Zigzag Level Order Traversal . 
+199. Binary Tree Right Side View . 
+226. Invert Binary Tree . 
+404. Sum of Left Leaves
+235. Lowest Common Ancestor of a Binary Search Tree . 
+236. Lowest Common Ancestor of a Binary Tree (same as 235...) . 
+108. Convert Sorted Array to Binary Search Tree
+
 ### 7.3
 110.Balanced Binary Tree (balanced binary tree) 【two recursion】
-
 
 ### 7.2
 257.Binary Tree Paths    
@@ -33,7 +42,6 @@ A personal history of leetcode
 102. Binary Tree Level Order Traversal   
 100. Same Tree    
 101. Symmetric Tree    
-226. Invert Binary Tree   
 
 ### 6.30
 144.Binary Tree Preorder Traversal  [review] [preorder]     
@@ -53,7 +61,6 @@ A personal history of leetcode
 189.Rotate Array    
 258.Add Digits (simple recursion)      
 231.Power of Two     
-
 
 ### 6.26
 27.Remove Element      
