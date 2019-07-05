@@ -17,14 +17,14 @@ A personal history of leetcode
 
 ## July
 ### 7.4
-107.Binary Tree Level Order Traversal II . 
-103. Binary Tree Zigzag Level Order Traversal . 
-199. Binary Tree Right Side View . 
-226. Invert Binary Tree . 
-404. Sum of Left Leaves
-235. Lowest Common Ancestor of a Binary Search Tree . 
-236. Lowest Common Ancestor of a Binary Tree (same as 235...) . 
-108. Convert Sorted Array to Binary Search Tree
+107.Binary Tree Level Order Traversal II .    
+103. Binary Tree Zigzag Level Order Traversal .     
+199. Binary Tree Right Side View .     
+226. Invert Binary Tree .     
+404. Sum of Left Leaves .    
+235. Lowest Common Ancestor of a Binary Search Tree .    
+236. Lowest Common Ancestor of a Binary Tree (same as 235...) .    
+108. Convert Sorted Array to Binary Search Tree .    
 
 ### 7.3
 110.Balanced Binary Tree (balanced binary tree) 【two recursion】
