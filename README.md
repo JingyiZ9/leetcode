@@ -7,7 +7,7 @@ A personal history of leetcode
 ### math
 29, 165, 8, 50, 365, 204
 ### tree
-124, 250, 366, 337, 235, 108
+124, 250, 366, 337, 235, 173, 297， 285， 270， 272， 99
 
 ## important
 * word pattern match 205, 290
@@ -16,6 +16,13 @@ A personal history of leetcode
 * recursive / iterative (tree) 144, 110
 
 ## July
+### 7.6
+109.Convert Sorted List to Binary Search Tree . 
+230. Kth Smallest Element in a BST . 
+98. Validate Binary Search Tree .  
+125. Valid Palindrome . 
+429. N-ary Tree Level Order Traversal
+
 ### 7.4
 107.Binary Tree Level Order Traversal II .    
 103. Binary Tree Zigzag Level Order Traversal .     
