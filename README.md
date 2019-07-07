@@ -17,11 +17,11 @@ A personal history of leetcode
 
 ## July
 ### 7.6
-109.Convert Sorted List to Binary Search Tree . 
-230. Kth Smallest Element in a BST . 
-98. Validate Binary Search Tree .  
-125. Valid Palindrome . 
-429. N-ary Tree Level Order Traversal
+109.Convert Sorted List to Binary Search Tree .    
+230. Kth Smallest Element in a BST .    
+98. Validate Binary Search Tree .    
+125. Valid Palindrome .    
+429. N-ary Tree Level Order Traversal    
 
 ### 7.4
 107.Binary Tree Level Order Traversal II .    
