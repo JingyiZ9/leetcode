@@ -9,13 +9,23 @@ A personal history of leetcode
 ### tree
 124, 250, 366, 337, 235, 173, 297， 285， 270， 272， 99
 
+### linked list
+
+
 ## important
 * word pattern match 205, 290
 * linked list cycle 141, 142
 * slow and quick pointers 26
 * recursive / iterative (tree) 144, 110
+* linked list: 24
 
 ## July
+### 7.7
+206.Reverse Linked List .    
+141. Linked List Cycle .     
+24. Swap Nodes in Pairs .  
+328. Odd Even Linked List     
+
 ### 7.6
 109.Convert Sorted List to Binary Search Tree .    
 230. Kth Smallest Element in a BST .    
@@ -52,7 +62,7 @@ A personal history of leetcode
 
 ### 6.30
 144.Binary Tree Preorder Traversal  [review] [preorder]     
-94. Binary Tree Inorder Traversal   [inorder]      
+z94. Binary Tree Inorder Traversal   [inorder]      
 145. Binary Tree Postorder Traversal [postorder]     
 
 ### 6.29
