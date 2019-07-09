@@ -2,7 +2,8 @@
 A personal history of leetcode     
 
 ## problems that need to review
-670 46 47 36
+670 46 47 36 .   
+284, 211, 208
 
 ### math
 29, 165, 8, 50, 365, 204
@@ -17,9 +18,16 @@ A personal history of leetcode
 * linked list cycle 141, 142
 * slow and quick pointers 26
 * recursive / iterative (tree) 144, 110
-* linked list: 24
+* linked list: 24, 92
 
 ## July
+### 7.8
+92.Reverse Linked List II .  
+237. Delete Node in a Linked List .  ......
+19. Remove Nth Node From End of List
+83. Remove Duplicates from Sorted List
+
+
 ### 7.7
 206.Reverse Linked List .    
 141. Linked List Cycle .     
