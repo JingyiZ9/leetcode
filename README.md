@@ -3,7 +3,7 @@ A personal history of leetcode
 
 ## problems that need to review
 670 46 47 36 .   
-284, 211, 208
+284, 211, 208, 212, 999, 399, 
 
 ### math
 29, 165, 8, 50, 365, 204
@@ -11,21 +11,27 @@ A personal history of leetcode
 124, 250, 366, 337, 235, 173, 297， 285， 270， 272， 99
 
 ### linked list
-
+369, 
 
 ## important
 * word pattern match 205, 290
 * linked list cycle 141, 142
 * slow and quick pointers 26
 * recursive / iterative (tree) 144, 110
-* linked list: 24, 92
+* linked list: 24, 92, 160
 
 ## July
+### 7.9
+203.Remove Linked List Elements           
+82. Remove Duplicates from Sorted List II      
+2. Add Two Numbers      
+
 ### 7.8
 92.Reverse Linked List II .  
-237. Delete Node in a Linked List .  ......
-19. Remove Nth Node From End of List
+237. Delete Node in a Linked List .  ......    
+19. Remove Nth Node From End of List      
 83. Remove Duplicates from Sorted List
+160. Intersection of Two Linked Lists     
 
 
 ### 7.7
