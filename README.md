@@ -25,6 +25,8 @@ A personal history of leetcode
 203.Remove Linked List Elements           
 82. Remove Duplicates from Sorted List II      
 2. Add Two Numbers      
+21. Merge Two Sorted Lists      
+234. Palindrome Linked List       
 
 ### 7.8
 92.Reverse Linked List II .  
