@@ -18,9 +18,15 @@ A personal history of leetcode
 * linked list cycle 141, 142
 * slow and quick pointers 26
 * recursive / iterative (tree) 144, 110
-* linked list: 24, 92, 160
+* linked list: 24, 92, 160, 143， 148
 
 ## July
+### 7.10
+142.Linked List Cycle II       [fast and slow pointers]       
+148. Sort List        【merge sort】        
+
+
+
 ### 7.9
 203.Remove Linked List Elements           
 82. Remove Duplicates from Sorted List II      
