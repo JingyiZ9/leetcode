@@ -18,18 +18,29 @@ A personal history of leetcode
 * linked list cycle 141, 142
 * slow and quick pointers 26
 * recursive / iterative (tree) 144, 110
-* linked list: 24, 92, 160, 143， 148, 25
+* linked list: 24, 92, 160, 143， 148, 25, 23
+* binary search 33, 153, 162
 
 ## July
+### 7.14
+147.Insertion Sort List       
+278. First Bad Version        
+35. Search Insert Position       
+33. Search in Rotated Sorted Array              
+81. Search in Rotated Sorted Array II           
+153. Find Minimum in Rotated Sorted Array     
+162. Find Peak Element          
+374. Guess Number Higher or Lower         
+34. Find First and Last Position of Element in Sorted Array         
+349. Intersection of Two Arrays
+
 ### 7.12
 61.Rotate List        
 86. Partition List       
 
-
 ### 7.10
 142.Linked List Cycle II       [fast and slow pointers]       
 148. Sort List        【merge sort】        
-
 
 ### 7.9
 203.Remove Linked List Elements           
