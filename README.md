@@ -22,6 +22,11 @@ A personal history of leetcode
 * binary search 33, 153, 162
 
 ## July
+### 7.16 recursion - review
+100.Same Tree            
+101. Symmetric Tree             
+
+
 ### 7.14
 147.Insertion Sort List       
 278. First Bad Version        
