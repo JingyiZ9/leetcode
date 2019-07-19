@@ -22,10 +22,14 @@ A personal history of leetcode
 * binary search 33, 153, 162
 
 ## July
+### 7.18
+226.Invert Binary Tree        
+257. Binary Tree Paths       
+112. Path Sum       
+
 ### 7.16 recursion - review
 100.Same Tree            
 101. Symmetric Tree             
-
 
 ### 7.14
 147.Insertion Sort List       
