@@ -20,8 +20,19 @@ A personal history of leetcode
 * recursive / iterative (tree) 144, 110
 * linked list: 24, 92, 160, 143， 148, 25, 23
 * binary search 33, 153, 162
+* other: 406, 
 
 ## July
+### 7.22
+647.Palindromic Substrings     
+17. Letter Combinations of a Phone Number            
+
+### 7.21
+78.Subsets          
+90. Subsets II       
+338. Counting Bits         
+406. Queue Reconstruction by Height      
+
 ### 7.18
 226.Invert Binary Tree        
 257. Binary Tree Paths       
