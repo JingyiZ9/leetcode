@@ -3,7 +3,8 @@ A personal history of leetcode
 
 ## problems that need to review
 670 46 47 36 .   
-284, 211, 208, 212, 999, 399, 481, 498, 500, 
+284, 211, 208, 212, 999, 399, 481, 498, 500,        
+451, 452, 453, 454, 455, 
 
 ### math
 29, 165, 8, 50, 365, 204
@@ -23,7 +24,15 @@ A personal history of leetcode
 * other: 406, 
 
 ## July
-### 7.24
+### 7.26
+14.Longest Common Prefix             
+15. 3Sum      
+16. 3Sum Closest         
+18. 4Sum        
+22. Generate Parentheses      
+
+
+### 7.25
 16.3Sum Closest           
 
 ### 7.23
