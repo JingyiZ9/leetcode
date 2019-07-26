@@ -3,7 +3,7 @@ A personal history of leetcode
 
 ## problems that need to review
 670 46 47 36 .   
-284, 211, 208, 212, 999, 399, 
+284, 211, 208, 212, 999, 399, 481, 498, 500, 
 
 ### math
 29, 165, 8, 50, 365, 204
@@ -23,6 +23,9 @@ A personal history of leetcode
 * other: 406, 
 
 ## July
+### 7.24
+16.3Sum Closest           
+
 ### 7.23
 832.Flipping an Image               
 12. Integer to Roman        
