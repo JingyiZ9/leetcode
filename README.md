@@ -4,7 +4,8 @@ A personal history of leetcode
 ## problems that need to review
 670 46 47 36 .   
 284, 211, 208, 212, 999, 399, 481, 498, 500,        
-451, 452, 453, 454, 455, 456, 457, 458, 461,
+451, 452, 453, 454, 455, 456, 457, 458, 461,      
+513, 515, 516, 518, 520, 521, 
 
 ### array
 277, 
@@ -25,10 +26,14 @@ A personal history of leetcode
 * binary search 33, 153, 162
 * other: 406, 
 
+## Aug
+### 8.2
+
 ## July
 ### 7.29 [review]
 27, 26, 80, 189,             
-41. First Missing Positive         
+41. First Missing Positive     
+
 ### 7.28
 39.Combination Sum         
 40. Combination Sum II         
