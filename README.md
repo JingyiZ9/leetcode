@@ -5,7 +5,8 @@ A personal history of leetcode
 670 46 47 36 .   
 284, 211, 208, 212, 999, 399, 481, 498, 500,        
 451, 452, 453, 454, 455, 456, 457, 458, 461,      
-513, 515, 516, 518, 520, 521, 
+513, 515, 516, 518, 520, 521, 522, 523, 524,
+
 
 ### array
 277, 
@@ -27,6 +28,12 @@ A personal history of leetcode
 * other: 406, 
 
 ## Aug
+### 8.5
+229.Majority Element II        【摩尔枚举：n个数取k个值】       
+274. H-Index        
+275. H-Index II     
+
+
 ### 8.4
 299.Bulls and Cows         
 134. Gas Station        
