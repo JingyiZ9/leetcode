@@ -27,7 +27,13 @@ A personal history of leetcode
 * other: 406, 
 
 ## Aug
-### 8.2
+### 8.4
+299.Bulls and Cows         
+134. Gas Station        
+118. Pascal's Triangle      
+119. Pascal's Triangle II         
+169. Majority Element      
+
 
 ## July
 ### 7.29 [review]
