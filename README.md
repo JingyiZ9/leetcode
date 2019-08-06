@@ -32,6 +32,10 @@ A personal history of leetcode
 229.Majority Element II        【摩尔枚举：n个数取k个值】       
 274. H-Index        
 275. H-Index II     
+217. Contains Duplicate       
+219. Contains Duplicate II      [star]        
+
+
 
 
 ### 8.4
