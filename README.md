@@ -9,7 +9,7 @@ A personal history of leetcode
 
 
 ### array
-277, 
+277, 220, 45, 121, 122, 123, 309, 11
 ### math
 29, 165, 8, 50, 365, 204
 ### tree
@@ -19,6 +19,7 @@ A personal history of leetcode
 369, 
 
 ## important
+* array: 220, 
 * word pattern match 205, 290
 * linked list cycle 141, 142
 * slow and quick pointers 26
@@ -28,14 +29,21 @@ A personal history of leetcode
 * other: 406, 
 
 ## Aug
+### 8.11
+287	Find the Duplicate Number       
+56. Merge Intervals
+
+
+### 8.8
+55.Jump Game         
+
+
 ### 8.5
 229.Majority Element II        【摩尔枚举：n个数取k个值】       
 274. H-Index        
 275. H-Index II     
 217. Contains Duplicate       
 219. Contains Duplicate II      [star]        
-
-
 
 
 ### 8.4
