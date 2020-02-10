@@ -3,13 +3,24 @@ A personal history of leetcode
 
 ## Java
 ### Feb 9
-复习10题 新题5题
+复习7题，新题3题      
+✅ 15. 3Sum    
+✅ 12. Integer to Roman    
+✅ 13. Roman to Integer    
+✅ 8. String to Integer (atoi)     
+❎
+❎
+❎
+❎
+❎
+❎ 🌟 10
+
+
 
 ### Feb 8
-复习6题，新题2题
-✅ tree - dfs, bfs, construct binary search tree
-
-✅ 11. Container With Most Water
+复习6题，新题2题       
+✅ tree - dfs, bfs, construct binary search tree     
+✅ 11. Container With Most Water     
 
 
 
