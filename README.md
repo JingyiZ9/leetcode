@@ -3,15 +3,7 @@ A personal history of leetcode
 
 ## Java
 ### Feb 9
-<<<<<<< HEAD
 复习10题 新题5题
-
-### Feb 8
-复习6题，新题2题
-✅ tree - dfs, bfs, construct binary search tree
-
-✅ 11. Container With Most Water
-=======
 复习7题，新题3题      
 ✅ 15. 3Sum    
 ✅ 12. Integer to Roman    
@@ -22,15 +14,12 @@ A personal history of leetcode
 ❎
 ❎
 ❎
-❎ 🌟 10
-
-
+❎ 🌟 10     
 
 ### Feb 8
-复习6题，新题2题       
-✅ tree - dfs, bfs, construct binary search tree     
-✅ 11. Container With Most Water     
->>>>>>> 8bdae6eea1200dc737743466637f40faad17933b
+复习6题，新题2题   
+✅ tree - dfs, bfs, construct binary search tree   
+✅ 11. Container With Most Water   
 
 
 
