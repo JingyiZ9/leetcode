@@ -2,18 +2,53 @@
 A personal history of leetcode     
 
 ## Java
+### Feb 13-14
+**Permutation**
+✅ 31. Next Permutation    
+✅ 46. Permutations        
+✅ 78. Subsets   
+✅ 90. Subsets II      
+✅ 
+
+✅ 200. Number of Islands    
+
+### Feb 12
+✅ 28. Implement strStr()    
+
+拓扑排序    
+✅ 207. Course Schedule      
+✅ 210. Course Schedule II     
+❎ 329. Longest Increasing Path in a Matrix    
+
+❎ 29， 23
+
+### Feb 11
+**括号题**   
+✅ 20. Valid Parentheses   
+✅ 22. Generate Parentheses    
+✅ 🌟 856. Score of Parentheses    
+✅ 🌟 241. Different Ways to Add Parentheses     
+      
+✅ 26. Remove Duplicates from Sorted Array   
+✅ 27. Remove Element    
+
+❎ 🌟 301
+
+### Feb 10
+复习6题，新题2题     
+✅ 15. 3Sum    
+✅ 18. 4Sum    
+✅ 20. Valid Parentheses   
+
 ### Feb 9
-复习10题 新题5题
 复习7题，新题3题      
 ✅ 15. 3Sum    
 ✅ 12. Integer to Roman    
 ✅ 13. Roman to Integer    
 ✅ 8. String to Integer (atoi)     
-❎
-❎
-❎
-❎
-❎
+✅ 17. Letter Combinations of a Phone Number
+✅ 18. 4Sum
+
 ❎ 🌟 10     
 
 ### Feb 8
