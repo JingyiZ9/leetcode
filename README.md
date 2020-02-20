@@ -2,20 +2,27 @@
 A personal history of leetcode     
 
 ## Java
+### Feb 17-18
+✅ 131. Palindrome Partitioning      
+✅ 40. Combination Sum II      
+✅ 31. Next Permutation        
+✅ 33. Search in Rotated Sorted Array      
+✅ 34. Find First and Last Position of Element in Sorted Array     
+✅
+
 ### Feb 13-14
 **Permutation**
 ✅ 31. Next Permutation    
 ✅ 46. Permutations        
 ✅ 78. Subsets   
 ✅ 90. Subsets II      
-✅ 
 
 ✅ 200. Number of Islands    
 
 ### Feb 12
 ✅ 28. Implement strStr()    
 
-拓扑排序    
+**拓扑排序**    
 ✅ 207. Course Schedule      
 ✅ 210. Course Schedule II     
 ❎ 329. Longest Increasing Path in a Matrix    
