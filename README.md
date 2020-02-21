@@ -2,16 +2,23 @@
 A personal history of leetcode     
 
 ## Java
+### Feb 20
+✅ 35. Search Insert Position        
+✅ 36. Valid Sudoku            
+✅ 37. Sudoku Solver           
+✅ 38. Count and Say     
+✅
+✅
+
 ### Feb 17-18
 ✅ 131. Palindrome Partitioning      
 ✅ 40. Combination Sum II      
 ✅ 31. Next Permutation        
 ✅ 33. Search in Rotated Sorted Array      
 ✅ 34. Find First and Last Position of Element in Sorted Array     
-✅
 
 ### Feb 13-14
-**Permutation**
+**Permutation**         
 ✅ 31. Next Permutation    
 ✅ 46. Permutations        
 ✅ 78. Subsets   
@@ -53,7 +60,7 @@ A personal history of leetcode
 ✅ 12. Integer to Roman    
 ✅ 13. Roman to Integer    
 ✅ 8. String to Integer (atoi)     
-✅ 17. Letter Combinations of a Phone Number
+✅ 17. Letter Combinations of a Phone Number           
 ✅ 18. 4Sum
 
 ❎ 🌟 10     
