@@ -2,13 +2,20 @@
 A personal history of leetcode     
 
 ## Java
+### Feb 21
+✅ 41. First Missing Positive        
+
+**water problems - dp**                   
+✅ 🌟 42. Trapping Rain Water        
+✅ 238. Product of Array Except Self      
+   11       
+❎ 407       
+
 ### Feb 20
 ✅ 35. Search Insert Position        
 ✅ 36. Valid Sudoku            
 ✅ 37. Sudoku Solver           
 ✅ 38. Count and Say     
-✅
-✅
 
 ### Feb 17-18
 ✅ 131. Palindrome Partitioning      
