@@ -2,6 +2,14 @@
 A personal history of leetcode     
 
 ## Java
+### Feb 23
+✅ 🌟 45. Jump Game II 【greedy】           
+✅ 48. Rotate Image      
+✅ 49. Group Anagrams    
+✅ 50. Pow(x, n)      
+✅ 53. Maximum Subarray     
+✅ 55. Jump Game      
+
 ### Feb 21
 ✅ 41. First Missing Positive        
 
