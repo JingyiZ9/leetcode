@@ -2,6 +2,13 @@
 A personal history of leetcode     
 
 ## Java
+### Feb 24
+✅ 54. Spiral Matrix     
+✅ 56. Merge Intervals      
+✅ 57. Insert Interval 【hard】
+✅ 59. Spiral Matrix II     
+
+
 ### Feb 23
 ✅ 🌟 45. Jump Game II 【greedy】           
 ✅ 48. Rotate Image      
