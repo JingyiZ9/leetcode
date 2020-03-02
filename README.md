@@ -2,10 +2,15 @@
 A personal history of leetcode     
 
 ## Java
+### Feb 29
+✅ 46. Permutations      
+✅ 70. Climbing Stairs      
+✅ 62. Unique Paths      
+
 ### Feb 24
 ✅ 54. Spiral Matrix     
 ✅ 56. Merge Intervals      
-✅ 57. Insert Interval 【hard】
+✅ 57. Insert Interval 【hard】     
 ✅ 59. Spiral Matrix II     
 
 
